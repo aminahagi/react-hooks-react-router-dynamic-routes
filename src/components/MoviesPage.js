@@ -10,3 +10,4 @@ function MoviesPage({ movies }) {
   );
 }
 export default MoviesPage;
+
